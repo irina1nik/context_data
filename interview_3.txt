@@ -1,5 +1,34 @@
-﻿Interviewer: Thank you for speaking with me today. Can you tell me a little about your cooking habits?
-Interviewee: Sure. I like to cook, but I'm always on the go with the kids and work, so I don't have a lot of time to spend in the kitchen. I try to use appliances that make the process faster and easier.
+Interviewer: Hi, thanks for agreeing to participate in this interview. Can you start by telling me a bit about yourself and why you like to cook at home?
+
+Interviewee: Hi, sure. I'm a young woman who loves exploring new cuisines and trying out new recipes. I find it really enjoyable and satisfying to cook for myself and others. Plus, it's usually healthier and cheaper than eating out all the time.
+
+Interviewer: That's great. So how do you typically decide what to cook?
+
+Interviewee: It really depends on my mood and what ingredients I have on hand. Sometimes I'll plan out meals for the week ahead of time, but other times I'll just browse through cookbooks or online recipe sites to get inspiration.
+
+Interviewer: And how often do you cook at home?
+
+Interviewee: I try to cook at least a few times a week, but it really depends on how busy I am with work and other things.
+
+Interviewer: What do you like most about cooking at home?
+
+Interviewee: I love being able to experiment with different flavors and ingredients, and the satisfaction of making something delicious from scratch. It's also a great way to connect with friends and family by sharing meals together.
+
+Interviewer: And what frustrates you when you cook at home?
+
+Interviewee: I guess sometimes I get frustrated when a recipe doesn't turn out the way I hoped or if it takes longer than expected. And of course, cleaning up after cooking can be a hassle.
+
+Interviewer: Do you typically eat breakfast at home, and if so, can you describe your breakfast preparation process?
+
+Interviewee: Yes, I usually eat breakfast at home. I'll make something simple like avocado toast or a smoothie, or I'll cook up some eggs with veggies. It usually doesn't take me more than 10-15 minutes.
+
+Interviewer: And how about dinner? Can you describe your preparation process for that?
+
+Interviewee: Dinner is where I really get to experiment and try new things. I'll usually plan out a meal that I can make in under an hour, and I'll use a variety of cooking methods like grilling, sautéing, or roasting. I like to try different flavor combinations and spices to keep things interesting.
+
+Interviewer: Finally, do you think you'll be purchasing any new kitchen appliances in the near future? If so, which ones and why?
+
+Interviewee: Yes, I'm definitely interested in getting a slow cooker or instant pot. I've heard they're great for making things like soups, stews, and even desserts, and I love the idea of being able to set it and forget it while the food cooks.
 Interviewer: That makes sense. What are some of your favorite appliances to use in the kitchen?
 Interviewee: I love my Instant Pot and my air fryer. They make cooking meals so much faster. I also use my food processor a lot for chopping and shredding.
 Interviewer: That's great. Do you have any tips for using these appliances effectively?
